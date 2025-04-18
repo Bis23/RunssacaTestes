@@ -10,9 +10,15 @@ public class MainMenu : MonoBehaviour
     
     }
 
-    public void StartGame() {
-        // Espefica a cena a qual o jogo inicia.
+    public void loadTutorial() {
+        // Carrega a cena que os parentesis especificam
         SceneManager.LoadScene("Tutorial");
+
+    }
+
+    public void StartGame() {
+        // Carrega o Jogo (Especificar o nome)
+        SceneManager.LoadScene("Game");
 
     }
 }
