@@ -1,4 +1,3 @@
 # RunssacaTestes
 
-Repositório dedicado a criação das telas alternativas do jogo.
-Deu problema no push e os arquivos foram enviados separadamente
+Para rodar o jogo, abra apenas a pasta de "runssaca-game" no unity hub.
