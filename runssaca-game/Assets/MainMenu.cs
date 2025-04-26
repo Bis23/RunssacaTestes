@@ -1,4 +1,4 @@
-using UnityEngine;
+ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
@@ -18,7 +18,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartGame() {
         // Carrega o Jogo (Especificar o nome)
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Game1");
 
     }
 }
